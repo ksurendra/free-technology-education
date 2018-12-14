@@ -1,2 +1,4 @@
-# free-technology-education
-Curated list of technology courses offered for free
+# Curated List of Technology Education Offered For Free 
+
+## Contribution
+Please raise a PR
