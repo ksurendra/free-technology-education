@@ -29,8 +29,14 @@ Below is a list of software developer focussed technology education courses offe
 * [Database for Developers](https://devgym.oracle.com/devgym/database-for-developers.html)
 * [Free introductory SaaS Training](https://www.oracle.com/education/#free)
 
+## Salesforce
+* [Saleforce Developer Training](https://trailhead.salesforce.com/en/home)
+
 ## SAP
 * [OpenSAP Course](https://open.sap.com/courses)
+
+## Visa
+* [Visa Developer Tutorials](https://community.developer.visa.com/t5/Developer-Tools/bg-p/DeveloperTools/label-name/tutorials)
 
 # Technology Wise
 ## Angular
