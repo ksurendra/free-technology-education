@@ -63,4 +63,4 @@ Below is a list of software developer focussed technology education courses offe
 ## Ruby
 
 ## Web Design
-* * [Google - Fundamentals of Responsive Web Design - Free course on Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [Google - Fundamentals of Responsive Web Design - Free course on Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
