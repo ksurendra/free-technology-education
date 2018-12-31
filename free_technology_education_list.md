@@ -15,6 +15,7 @@ Below is a list of software developer focussed technology education courses offe
 
 ## Google
 * [Google Developers Training](https://developers.google.com/training/)
+* [Fundamentals of Responsive Web Design - Free course on Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
 ## IBM
 * [IBM Developer Courses](https://developer.ibm.com/courses/)
@@ -42,7 +43,7 @@ Below is a list of software developer focussed technology education courses offe
 ## Visa
 * [Visa Developer Tutorials](https://community.developer.visa.com/t5/Developer-Tools/bg-p/DeveloperTools/label-name/tutorials)
 
-# Concepts, Architecture
+# Topics, Concepts, Architecture
 ## Blockchain
 [IBM Blockchain Tutorials](https://developer.ibm.com/tutorials/category/blockchain/)
 
@@ -60,3 +61,6 @@ Below is a list of software developer focussed technology education courses offe
 ## .NET
 
 ## Ruby
+
+## Web Design
+* * [Google - Fundamentals of Responsive Web Design - Free course on Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
